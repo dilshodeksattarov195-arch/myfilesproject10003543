@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercpdate",
+        "uuid": 28365258,
+        "checksum": "ksm8up"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
